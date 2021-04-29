@@ -10,13 +10,15 @@ A aplicação deverá ter o nome do colaborador, cpf e o que será trazido para 
 
 Ex. Fulano de Tal, CPF: 732.442.160-13 e Suco de Acerola.
 
-Utilizar NativeQuery para inserção, atualização, consulta e exclusão.
-<br/>
+Regras:
+
 Não poderá repetir cpf.
 <br/>
 Não poderá repetir opção de café da manhã mesmo que seja outro colaborador.
 <br/>
 Implemente utilizando a linguagem Java com a IDE eclipse.
+<br/>
+Utilizar NativeQuery para inserção, atualização, consulta e exclusão (SQL).
 
 # Layout
 
@@ -30,5 +32,5 @@ Lista de participantes com suas opções
 
 # Envio do Desafio
 
-Deverá ser hospedado no heroku ou outro servidor de aplicação e disponibilizado o link da aplicação + o link no github.
+Deverá ser hospedado no heroku ou outro servidor de aplicação e disponibilizado o link da aplicação funcionando + o link no github.
 Lembrando que este teste não é eliminatório serve apenas para avaliar seu nível de conhecimento :)
