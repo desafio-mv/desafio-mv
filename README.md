@@ -1,16 +1,25 @@
-### Hi there 👋
+Desafio Unidac - Grupo WL
+Realizamos café da manhã constantemente e sempre há conflito no merge kkkk
 
-<!--
-**desafio-mv/desafio-mv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sempre há pessoas que querem trazer pão, bolo, suco...
 
-Here are some ideas to get you started:
+Nesse desafio é necessário que seja montando uma aplicação web (front a sua escolha) com backend em JAVA (REST).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A aplicação deverá ter o nome do colaborador, cpf e o que será trazido para o café da manha. O colaborador poderá trazer mais de um opção para o café da manhã.
+
+Ex. Fulano de Tal, CPF: 732.442.160-13 e Suco de Acerola.
+
+Utilizar NativeQuery para inserção, atualização, consulta e exclusão.
+Não poderá repetir cpf.
+Não poderá repetir opção de café da manhã mesmo que seja outro colaborador.
+Implemente utilizando a linguagem Java com a IDE eclipse.
+
+Layout
+Utilize a criatividade e monte um layout amigavel.
+
+Telas Obrigatórias
+Crud de Cadastro
+Lista de participantes com suas opções
+
+Envio do Desafio
+Deverá ser hospedado no heroku ou outro servidor de aplicação e disponibilizado o link da aplicação + o link no github. Lembrando que este teste não é eliminatório serve apenas para avaliar seu nível de conhecimento :)
